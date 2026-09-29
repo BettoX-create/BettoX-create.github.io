@@ -35,4 +35,3 @@ Modo oscuro predeterminado. Plan y proyecto inicialmente sin seleccionar. WhatsA
 ## Procedencia
 
 Componentes de React Bits (https://reactbits.dev/), incluidos componentes Pro facilitados por el propietario. Logo, imágenes y vídeo facilitados para BettoX. Este repositorio no concede una licencia adicional de redistribución de recursos de terceros; se aplican sus condiciones originales.
-
