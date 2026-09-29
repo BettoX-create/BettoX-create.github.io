@@ -2,7 +2,7 @@
 
 Web de diseño y venta de sitios web, adaptada a móvil.
 
-Web: https://bettobuyissio-create.github.io/
+Web: https://BettoX-web.es
 
 ## Desarrollo
 
