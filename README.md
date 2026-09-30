@@ -2,7 +2,7 @@
 
 Web de diseño y venta de sitios web, adaptada a móvil.
 
-Web: https://BettoX-web.es
+Web: https://bettox-create.github.io/
 
 ## Desarrollo
 
